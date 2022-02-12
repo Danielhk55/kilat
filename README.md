@@ -1,0 +1,2 @@
+# kilat
+Kecepatan kilat
